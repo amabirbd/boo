@@ -1,4 +1,4 @@
-## Boo backend coding challange
+## Boo backend coding challange U+1F47B
 
 ## Run the app
 
